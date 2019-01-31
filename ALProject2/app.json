@@ -1,0 +1,31 @@
+{
+  "id": "86dc9370-5ea6-4d55-8603-99bbbbcfe4bb",
+  "name": "ALProject2",
+  "publisher": "Erik P. Ernst",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "53e2927d-7fc5-4fd8-a900-87b16c6dd143",
+      "name": "ALProject1",
+      "publisher": "Erik P. Ernst",
+      "version": "1.0.0.0" 
+    } 
+  ],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.3",
+  "showMyCode": true
+}
