@@ -2,9 +2,7 @@
 
 This is a test made to support my blog post:
 
-<https://dynamicsuser.net/nav/b/admin>
-
-
+<https://dynamicsuser.net/nav/b/admin/posts/multi-level-dependencies-as-expected>
 
 ## How to test yourself
 
